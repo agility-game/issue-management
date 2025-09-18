@@ -8,3 +8,5 @@
 - [SolidJS](https://solidjs.com/)
 - [Spec Kit](https://github.com/vanHeemstraSystems/spec-kit)
 - [Using AI as my Engineering Copilot not Autopilot](https://depot.dev/blog/using-ai-as-my-engineering-copilot-not-autopilot)
+
+<img width="1200" height="901" alt="Image" src="https://github.com/user-attachments/assets/63a068b2-7a0b-4483-a8e8-c5063df68064" />
