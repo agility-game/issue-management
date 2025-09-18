@@ -1,5 +1,5 @@
-Welcome to Your Project Documentation
-======================================
+Welcome to Issue Management
+===========================
 
 .. toctree::
    :maxdepth: 2
