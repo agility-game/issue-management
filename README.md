@@ -1,7 +1,7 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/REPOSITORY-NAME/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/REPOSITORY-NAME/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/agility-game/issue-management/actions/workflows/publish.yml/badge.svg)](https://github.com/agility-game/issue-management/actions/workflows/publish.yml)
 
-repository-name
-# Repository Name
+issue-management
+# Issue Management
 
 > Slugline
 
@@ -25,6 +25,8 @@ repository-name
 Text
 
 Generated with [Rytr](https://app.rytr.me)
+
+<img width="1395" height="897" alt="Image" src="https://github.com/user-attachments/assets/485550d9-6919-49cd-bcea-8987a0864eda" />
 
 <table>
 <th colspan="5">Summarize with:</th><tr/> 
